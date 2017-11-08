@@ -1,3 +1,6 @@
+var flyUp = document.getElementById('flyUp'),
+    flyDown = document.getElementById('flyDown');
+
 var maxFPS = 60,
     fpsw = 0,
     lastFrameTimeMs = 0,
