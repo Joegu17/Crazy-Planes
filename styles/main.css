@@ -50,7 +50,7 @@ body {
 
 .hindernis {
     position: absolute;
-    left: 50%;
+    left: 100%;
     overflow: hidden;
     transition-timing-function: linear;
 }
@@ -58,43 +58,36 @@ body {
     background-image: url(../images/geometrie_0.png);
     background-size: cover;
     background-repeat: no-repeat;
-    transition-duration: 2s;
 }
 #geometrie_1 {
     background-image: url(../images/geometrie_1.png);
     background-size: cover;
     background-repeat: no-repeat;
-    transition-duration: 2s;
 }
 #geometrie_2 {
     background-image: url(../images/geometrie_2.png);
     background-size: cover;
     background-repeat: no-repeat;
-    transition-duration: 2s;
 }
 #geometrie_3 {
     background-image: url(../images/geometrie_3.png);
     background-size: cover;
     background-repeat: no-repeat;
-    transition-duration: 2s;
 }
 #geometrie_4 {
     background-image: url(../images/geometrie_4.png);
     background-size: cover;
     background-repeat: no-repeat;
-    transition-duration: 2s;
 }
 #geometrie_5 {
     background-image: url(../images/geometrie_5.png);
     background-size: cover;
     background-repeat: no-repeat;
-    transition-duration: 2s;
 }
 #geometrie_6 {
     background-image: url(../images/geometrie_6.png);
     background-size: cover;
     background-repeat: no-repeat;
-    transition-duration: 2s;
 }
 
 #flyUp {
@@ -103,14 +96,14 @@ body {
     top: 0px;
     overflow: hidden;
     background-color: yellow;
-    opacity: 0.5;
+    opacity: 0;
 }
 #flyDown {
     position: fixed;
     left: 0px;
     overflow: hidden;
     background-color: red;
-    opacity: 0.5;
+    opacity: 0;
 }
 
 .screenButton {
