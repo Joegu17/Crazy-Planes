@@ -34,7 +34,7 @@ body {
     position: absolute;
     left: 9.375%;
     overflow: hidden;
-    transition-duration: 0s;
+    transition-duration: 10s;
     transition-timing-function: linear;
 }
 #flugzeug0 {
