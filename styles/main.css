@@ -115,4 +115,5 @@ body {
     overflow: hidden;
     background-color: green;
     opacity: 0;
+    display: none;
 }
